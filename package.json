@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markcharlessmith/OTG.git"
+    "url": "git+https://github.com/OTGteam/OTG.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/markcharlessmith/OTG/issues"
+    "url": "https://github.com/OTGteam/OTG/issues"
   },
-  "homepage": "https://github.com/markcharlessmith/OTG#readme"
+  "homepage": "https://github.com/OTGteam/OTG#readme"
 }
